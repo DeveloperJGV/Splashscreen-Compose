@@ -12,12 +12,6 @@ El objetivo de este proyecto es crear un Splash Screen con una animación person
 - **Kotlin**: Lenguaje de programación utilizado para escribir el código.
 - **MVVM (Model-View-ViewModel)**: Arquitectura utilizada para separar la lógica de negocio de la interfaz de usuario.
 
-## Capturas de Pantalla
-
-A continuación, se muestran algunas capturas de pantalla del proyecto:
-
-!Captura de Pantalla 1
-!Captura de Pantalla 2
 
 ## Instrucciones de Uso
 
